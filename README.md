@@ -1,5 +1,5 @@
-# Handwritten predictor
-This is a naive and suboptimal implementation of a handwritten prediction. 
+# Handwritten digits predictor
+This is a naive and suboptimal implementation of a handwritten digits prediction. 
 Under the hood there is a non-optimized single-layer perceptron that uses the delta rule for learning
 
 ## Train the model
