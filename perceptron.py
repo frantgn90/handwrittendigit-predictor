@@ -11,10 +11,6 @@ import scipy.ndimage
 
 from tkinter import *
 
-"""
-This is a naive implementation of a perceptron with a delta learning rule.
-"""
-
 
 class UbtyeDataset(object):
     """ 
